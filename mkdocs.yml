@@ -1,0 +1,14 @@
+site_name: Administration Coiffeuse Chartres Site Documentation
+theme:
+  name: material
+  language: fr
+  favicon: images/favicon.ico
+  logo: assets/favicon.png
+  features:
+    - navigation.instant
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
