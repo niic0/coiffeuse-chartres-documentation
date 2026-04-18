@@ -1,0 +1,7 @@
+/* Apply to all images in markdown content */
+.md-content img {
+    box-shadow: 0 12px 14px rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    border: rgba(0, 0, 0, 0.15);
+    border: 1px solid var(--md-default-fg-color--lightest);
+  }
